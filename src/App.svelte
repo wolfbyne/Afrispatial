@@ -1,12 +1,11 @@
 <script>
-	export let name;
+
 </script>
 
-<img src="public\images\afrispatial_logo.png" alt="logo">
-
 <main>
-	<h1>Hello {name}!</h1>
-	<p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p>
+    <div class="container text-center">
+        <img src="https://cdn.statically.io/gh/wolfbyne/Afrispatial/main/public/images/afrispatial_logo.png" alt="logo">
+    </div>
 </main>
 
 <style>
